@@ -3,5 +3,9 @@ Emerson
 Patati Patata
 
 Teste Emerson
+<<<<<<< HEAD
 aaaaa
 Teste normal 
+=======
+Alterado no clone
+>>>>>>> 15a1bea6d89ef5f83145108107dc0dd448b21a75
